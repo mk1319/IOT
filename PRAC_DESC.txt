@@ -9,4 +9,3 @@ steps:
 1.go to botfather in telegram app/web and create a bot.
 2. then from it you will get a unique token id.
 3.then add itb to your code as given in prac_1.py.
-4. then you will get an output in python idle :
